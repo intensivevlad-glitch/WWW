@@ -1,0 +1,19 @@
+{
+  "name": "charity-foundation",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Modern responsive charity foundation website (React + Vite + Tailwind, Node/Express, JSON storage)",
+  "scripts": {
+    "dev": "concurrently -n FRONTEND,BACKEND -c blue,green \"cd frontend && npm run dev\" \"cd backend && npm run dev\"",
+    "build": "cd frontend && npm run build",
+    "start": "node backend/server.js",
+    "install:all": "cd frontend && npm install && cd ../backend && npm install",
+    "deploy": "git add . && git commit -m 'Auto deploy' || echo 'no changes' && git push origin main"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  }
+}
+
+
+

@@ -1,0 +1,140 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "how": "How We Work",
+    "projects": "Projects",
+    "contact": "Contact",
+    "donate": "Donate"
+  },
+  "footer": {
+    "tagline": "Together we bring hope."
+  },
+  "hero": {
+    "title": "We help people fight blood cancer",
+    "subtitle": "Every drop matters",
+    "cta": "Support the Foundation"
+  },
+  "home": {
+    "lives_saved": "lives saved",
+    "donors_joined": "donors joined",
+    "treatments_funded": "treatments funded",
+    "join_donor": "Join as a Donor",
+    "our_projects": "Our Projects"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "We fight for the lives of those battling blood cancer.",
+    "text1": "Our charity foundation supports patients with leukemia and other serious blood disorders by providing access to treatment, support, and hope.",
+    "text2": "We cooperate with hospitals across Ukraine, ensuring transparency and community involvement in every step.",
+    "text3": "Our team consists of doctors, volunteers, and people who believe in the power of kindness.",
+    "years": "Years of Support",
+    "patients": "Patients Helped",
+    "hospitals": "Partner Hospitals",
+    "values": {
+      "transparency": "Transparency",
+      "compassion": "Compassion",
+      "hope": "Hope"
+    }
+  },
+  "how": {
+    "title": "How We Work",
+    "subtitle": "From donation to saved life — transparent and heartfelt every step of the way.",
+    "steps": {
+      "1": {
+        "title": "Donations",
+        "desc": "We receive financial and resource contributions from caring people."
+      },
+      "2": {
+        "title": "Purchasing Medicine",
+        "desc": "Funds are used to buy necessary medicines and equipment with doctor approval."
+      },
+      "3": {
+        "title": "Distribution",
+        "desc": "Aid is delivered directly to hospitals that need it most."
+      },
+      "4": {
+        "title": "Patient Support",
+        "desc": "We provide emotional and material support to patients and families."
+      },
+      "5": {
+        "title": "Transparency",
+        "desc": "Every donor can see how funds are spent via public reports."
+      }
+    }
+  },
+  "projects": {
+    "title": "Our Projects",
+    "subtitle": "Stories of hope and victory over disease",
+    "progress": "funded",
+    "more": "Learn more",
+    "items": {
+      "1": {
+        "title": "Drop of Life",
+        "desc": "Blood transfusion program for leukemia patients. Helped over 150 patients receive necessary transfusions."
+      },
+      "2": {
+        "title": "Ray of Hope",
+        "desc": "Funding chemotherapy courses for children. Financed treatment for 85 young patients."
+      },
+      "3": {
+        "title": "Stronger Together",
+        "desc": "Awareness campaigns in schools and universities. Reached over 10,000 students."
+      },
+      "4": {
+        "title": "Second Life",
+        "desc": "Support for rehabilitation after bone marrow transplantation. Helped 40 patients."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contacts",
+    "desc": "Send us a message and we will get back to you soon.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "address": "12 Svobody St, Kyiv, Ukraine",
+    "phone": "+380 50 123 4567"
+  },
+  "support": {
+    "title": "Support Us",
+    "subtitle": "Every contribution is a chance for life. Together we can do more.",
+    "card": "Bank Card",
+    "monobank": "Monobank",
+    "paypal": "PayPal",
+    "other": "Other Ways"
+  },
+  "contacts": {
+    "title": "Contacts",
+    "subtitle": "Write to us or get in touch in a convenient way",
+    "address": "Address",
+    "addressValue": "12 Svobody St, Kyiv, Ukraine",
+    "email": "Email",
+    "emailValue": "info@lifeindrop.org",
+    "phone": "Phone",
+    "phoneValue": "+380 50 123 4567",
+    "yourName": "Your Name",
+    "yourEmail": "Your Email",
+    "message": "Message",
+    "send": "Send",
+    "followUs": "Follow Us"
+  },
+  "footer": {
+    "foundation": "Life in a Drop",
+    "mission": "We fight for life. Together.",
+    "quickLinks": "Quick Links",
+    "aboutUs": "About Us",
+    "howWeWork": "How We Work",
+    "ourProjects": "Our Projects",
+    "supportUs": "Support Us",
+    "contacts": "Contacts",
+    "rights": "All rights reserved.",
+    "created": "Created with ❤️ to save lives.",
+    "scrollToTop": "Back to Top"
+  }
+}
+
+
+
+
